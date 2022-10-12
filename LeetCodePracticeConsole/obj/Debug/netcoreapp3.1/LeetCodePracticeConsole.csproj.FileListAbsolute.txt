@@ -1,0 +1,13 @@
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\obj\Debug\netcoreapp3.1\LeetCodePracticeConsole.csprojAssemblyReference.cache
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\obj\Debug\netcoreapp3.1\LeetCodePracticeConsole.AssemblyInfoInputs.cache
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\obj\Debug\netcoreapp3.1\LeetCodePracticeConsole.AssemblyInfo.cs
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\obj\Debug\netcoreapp3.1\LeetCodePracticeConsole.csproj.CoreCompileInputs.cache
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\bin\Debug\netcoreapp3.1\LeetCodePracticeConsole.exe
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\bin\Debug\netcoreapp3.1\LeetCodePracticeConsole.deps.json
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\bin\Debug\netcoreapp3.1\LeetCodePracticeConsole.runtimeconfig.json
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\bin\Debug\netcoreapp3.1\LeetCodePracticeConsole.runtimeconfig.dev.json
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\bin\Debug\netcoreapp3.1\LeetCodePracticeConsole.dll
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\bin\Debug\netcoreapp3.1\LeetCodePracticeConsole.pdb
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\obj\Debug\netcoreapp3.1\LeetCodePracticeConsole.dll
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\obj\Debug\netcoreapp3.1\LeetCodePracticeConsole.pdb
+D:\VSCode\LeetCodePractice\LeetCodePracticeConsole\obj\Debug\netcoreapp3.1\LeetCodePracticeConsole.genruntimeconfig.cache

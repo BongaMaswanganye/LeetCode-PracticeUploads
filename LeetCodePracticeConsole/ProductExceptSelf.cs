@@ -18,7 +18,9 @@ namespace LeetCodePracticeConsole
             //multiply to the right of each variable and place it in equivalent holder spot
             for (int i = 0; i < nums.Length; i++)
             {
+                //in each spot put the temp variable
                 result[i] = temp;
+                //multiply temp by the current spot
                 temp *= nums[i];
             }
             //reset temp to one
@@ -26,6 +28,7 @@ namespace LeetCodePracticeConsole
             //multiply everything to the left of a number and put it in its appropriate start
             for (int i = result.Length - 1; i >= 0; i--)
             {
+                //same as first loop but starting from the end
                 result[i] *= temp;
                 temp *= nums[i];
             }

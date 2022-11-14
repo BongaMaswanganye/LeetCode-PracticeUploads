@@ -11,7 +11,7 @@ namespace LeetCodePracticeConsole
         public bool ContainsDuplicate(int[] nums) {
         //create empty hashset to store first instance of every number
         HashSet<int> Holder = new HashSet<int>();
-        loop through nums array
+        //loop through nums array
         foreach (int i in nums)
         {
             //hashset.add returns true if it adds the value and false if the value is present already
